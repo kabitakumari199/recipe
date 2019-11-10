@@ -1,0 +1,21 @@
+.blackoverlay {
+    background-color: #000;
+    display: none;
+    height: 100%;
+    opacity: 0.7;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+  }
+  
+  .loaderjob {
+    left: 95%;
+    margin-left: -690px;
+    margin-top: -12px;
+    position: fixed;
+    display: none;
+    top: 50%;
+  
+    z-index: 999999;
+  }
